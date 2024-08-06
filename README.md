@@ -11,6 +11,8 @@ A aplicação possui 4 consultas CRUD as quais são:
 3) Registração de um personagem, dado seu nome único e um mundo a sua escolha
 4) Deleção de todos os Data Centers armazenados no banco de dados.
 
+A documentação está disponível no Swagger no seguinte link: https://app.swaggerhub.com/apis/DUARDAMT_1/UniversalisFFXIV/1.0.0#/Datacenters
+
 Membros:
 -Bruno Eskinazi (473967)
 -Eduarda Tavares (472432)
